@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Botnation Wordpress Plugin\n"
+"POT-Creation-Date: 2020-07-07 15:55+0000\n"
+"PO-Revision-Date: 2020-07-08 10:55+0200\n"
+"Last-Translator: \n"
+"Language-Team: Botnation\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;_nx;_n_noop;_nx_noop;"
+"translate_nooped_plural;_esc_html__;esc_html_e;esc_html_x;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: includes\n"
+"X-Poedit-SearchPathExcluded-0: images\n"
+"X-Poedit-SearchPathExcluded-1: languages\n"
+
+#: includes/bnai-cb-administration.php:36
+msgid "Chatbot Botnation."
+msgstr "Botnation Chatbot."
+
+#: includes/bnai-cb-administration.php:44 includes/bnai-cb-page-options.php:80
+msgid "Website ID"
+msgstr "Website ID"
+
+#: includes/bnai-cb-administration.php:57 includes/bnai-cb-page-options.php:52
+msgid "Auto start"
+msgstr "Démarrage automatique"
+
+#: includes/bnai-cb-administration.php:70 includes/bnai-cb-page-options.php:66
+msgid "Fullscreen"
+msgstr "Plein écran"
+
+#: includes/bnai-cb-administration.php:83 includes/bnai-cb-page-options.php:89
+msgid "Ref."
+msgstr "Ref."
+
+#: includes/bnai-cb-administration.php:96 includes/bnai-cb-page-options.php:103
+msgid "Language"
+msgstr "Langue"
+
+#: includes/bnai-cb-administration.php:109
+#: includes/bnai-cb-page-options.php:116
+msgid "Container Id"
+msgstr "Id du conteneur"
+
+#: includes/bnai-cb-administration.php:134
+msgid "Configure form above from your web project on "
+msgstr ""
+"Remplissez le formulaire ci-dessous à partir des informations de votre "
+"projet Web sur "
+
+#: includes/bnai-cb-administration.php:134
+msgid "Botnation AI"
+msgstr "Botnation AI"
+
+#: includes/bnai-cb-administration.php:151
+msgid "This field is required."
+msgstr "Ce champ est obligatoire."
+
+#: includes/bnai-cb-administration.php:168 includes/bnai-cb-page-options.php:62
+msgid "Enable this option to start automatically the chat."
+msgstr "Activez cette option pour démarrer automatiquement le chat."
+
+#: includes/bnai-cb-administration.php:185 includes/bnai-cb-page-options.php:92
+msgid ""
+"You can set a reference to start the bot at a specific sequence or fill with "
+"\"restart\" to restart the welcome sequence."
+msgstr ""
+"Vous pouvez spécifier une référence pour démarrer le bot sur une séquence "
+"spécifique ou saisissez \"restart\" pour redémarrer sur la séquence de "
+"bienvenue."
+
+#: includes/bnai-cb-administration.php:205
+#: includes/bnai-cb-page-options.php:106
+msgid "Choose the Chatbot language"
+msgstr "Choisissez la langue du Chatbot"
+
+#: includes/bnai-cb-administration.php:222
+#: includes/bnai-cb-page-options.php:119
+msgid ""
+"Allow to show the chatbot module in existing html tag. Must be the id of a "
+"HTML element."
+msgstr ""
+"Permet d'afficher la discussion dans un élément HTML existant. Cela doit "
+"être l'id de l'élément HTML."
+
+#: includes/bnai-cb-administration.php:239 includes/bnai-cb-page-options.php:76
+msgid "Set the fullscreen mod"
+msgstr "Activer le plein écran"
+
+#: includes/bnai-cb-administration.php:255
+msgid "Settings Saved"
+msgstr "Configuration sauvegardée"
+
+#: includes/bnai-cb-administration.php:271
+msgid "Save Settings"
+msgstr "Enregistrer"
+
+#. ID attribute of metabox
+#: includes/bnai-cb-page-options.php:6
+msgid "Chatbot Botnation Options"
+msgstr "Botnation Chatbot Options"
+
+#. Name of the plugin
+#: includes/bnai-cb-page-options.php:26
+msgid "Chatbot Botnation"
+msgstr "Botnation Chatbot"
+
+#: includes/bnai-cb-page-options.php:27
+msgid "Open automatically the chat (force)"
+msgstr "Force l'ouverture automatique du chat"
+
+#: includes/bnai-cb-page-options.php:27
+msgid " - If enabled, the chat will start automatically on this page."
+msgstr " - Si activé, le chat s'ouvrira automatiquement sur cette page."
+
+#: includes/bnai-cb-page-options.php:28
+msgid "Restart the conversation on sequence"
+msgstr "Redémarrer la conversation sur une séquence"
+
+#: includes/bnai-cb-page-options.php:28
+msgid " - You can start a specific sequence for this page by :"
+msgstr ""
+" - Vous pouvez (re)démarrer la conversation sur une séquence spécifique pour "
+"cette page :"
+
+#: includes/bnai-cb-page-options.php:30
+#, php-format
+msgid "Setting &laquo;%s&raquo; to restart your welcome sequence."
+msgstr "Option &laquo;%s&raquo; pour redémarrer sur la séquence de bienvenue."
+
+#: includes/bnai-cb-page-options.php:31
+msgid "copying / pasting the ID of the sequence you want to start :"
+msgstr ""
+"copiez / collez l'identifiant de la séquence sur laquelle vous voulez "
+"démarrer :"
+
+#: includes/bnai-cb-page-options.php:32
+msgid "How to start a specific sequence"
+msgstr "Comment démarrer une séquence particulière"
+
+#: includes/bnai-cb-page-options.php:131
+msgid "Variables"
+msgstr "Variables"
+
+#: includes/bnai-cb-page-options.php:143
+msgid "Var. name"
+msgstr "Nom de la var"
+
+#: includes/bnai-cb-page-options.php:151
+msgid "Var. value"
+msgstr "Valeur de la var"
+
+#: includes/bnai-cb-page-options.php:161
+msgid "Need help? Use the Help tab above the screen title."
+msgstr "Besoin d'aide ? Utilisez l'onglet Aide en haut de la page."
+
+#. Description of the plugin
+msgid ""
+"Create easily your own AI chatbot for Word Press powered by Botnation AI. "
+"Free chatbot building platform."
+msgstr ""
+"Créez facilement votre propre Chatbot pour WordPress avec Botnation AI, une "
+"plateforme gratuite de construction de Chatbot."
+
+#. Author of the plugin
+msgid "<a href='https://botnation.ai'>Botnation AI</a>"
+msgstr "<a href='https://botnation.ai'>Botnation AI</a>"
